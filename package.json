@@ -1,6 +1,6 @@
 {
-  "name": "@krylovsentry/gulp-static-bindings",
-  "version": "0.0.1",
+  "name": "gulp-static-bindings",
+  "version": "1.0.0",
   "description": "A gulp plugin for replacing dynamic one-way angular bindings with string literals to one-time initializable binding with static string literals ",
   "main": "index.js",
   "scripts": {
